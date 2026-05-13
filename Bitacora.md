@@ -12,3 +12,5 @@ Bitacora Mecatronica:
 
 - Simulamos en mmana-gal la antena yagui, en particular, y ajustamos el espectro de frecuencia para que se direccione en mayor medida hacia una
    direccion en especifico.
+  
+- Empezamos con la creación de la antena moxon utilizando cables y tubos de pvc, tuvimos que cortarlas de una longitud en especifico y luego una compañera soldó la terminal de un cable para que luego se pueda conectar a la computadora y poder captar las señales.
